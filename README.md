@@ -135,6 +135,6 @@ python plot_policies.py
 
 Team project for **Natural Resources Management** (Prof. A. Castelletti, Prof. M. Giuliani, tutor M. Sangiorgio), M.Sc. Environmental and Land Planning Engineering, **Politecnico di Milano**, A.Y. 2021/22.
 
-**Authors:** Andrea Romanò · Riccardo Cuneo · Alessandro Prece
+**Author:** Andrea Romanò ·
 
 The simulation model and datasets were provided by the course (Environmental Intelligence Lab, PoliMi) for educational purposes. The NSGA-II implementation is by Aravind Seshadri (2009).
