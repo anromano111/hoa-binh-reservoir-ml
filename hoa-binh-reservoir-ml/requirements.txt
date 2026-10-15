@@ -1,0 +1,4 @@
+# Only needed for the Python plotting scripts (the models themselves run in MATLAB)
+numpy
+scipy
+matplotlib
